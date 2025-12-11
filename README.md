@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m an Informatics Engineering student, i made apps when told to, ordered to, or when there is a desire because of interest.<br>Currently learning to build Backend apps and Android apps.<br>Usually deploying apps using docker with vps because of flexibility.<br><br>📍 Bandung, Indonesia<br>🎮 Casual gamer<br><br>Feel free to check out my repos, there's nothing perfect about my repos.<br>Anything to build together? call me! <br><br>
-![zed](http://moe.zabduziz.com/@zed)
+![zed](https://moe.zabduziz.com/@zed)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
