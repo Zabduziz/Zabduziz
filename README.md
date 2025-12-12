@@ -1,8 +1,8 @@
-# 💫 About Me:
-I’m an Informatics Engineering student, i made apps when told to, ordered to, or when there is a desire because of interest.<br>Currently learning to build Backend apps and Android apps.<br>Usually deploying apps using docker with vps because of flexibility.<br><br>📍 Bandung, Indonesia<br>🎮 Casual gamer<br><br>Feel free to check out my repos, there's nothing perfect about my repos.<br>Anything to build together? call me! <br><br>
-![zed](https://moe.zabduziz.com/@zed)
+# About Me:
+I’m an Informatics Engineering student, i made apps when told to, ordered to, or when there is a desire because of interest.<br>Currently learning to build Backend apps and Android apps.<br>Usually deploying apps using docker with vps because of flexibility.<br><br>  Bandung, Indonesia<br>  Casual gamer<br><br>
+![counter](https://moe.zabduziz.com/@zed)
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
@@ -20,6 +20,3 @@ I’m an Informatics Engineering student, i made apps when told to, ordered to, 
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=plastic&logo=android&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
