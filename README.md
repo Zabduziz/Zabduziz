@@ -19,4 +19,6 @@ I’m an Informatics Engineering student, i made apps when told to, ordered to, 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) 
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=plastic&logo=android&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
+
+![teto](public/teto-spin.gif)
